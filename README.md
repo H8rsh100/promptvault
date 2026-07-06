@@ -6,7 +6,7 @@
 [![JWT Auth](https://img.shields.io/badge/JWT%20Auth-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)](https://jwt.io/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)](https://react.dev/)
 
-> **Secure AI Prompt Store & Token Compiler** — A full-stack vault designed to save, search, edit, and classify AI system instructions and prompt templates. Securely gated by JWT session verification and styled in a premium glassmorphic dark theme.
+> **Secure AI Prompt Store & Token Compiler** - A full-stack vault designed to save, search, edit, and classify AI system instructions and prompt templates. Securely gated by JWT session verification and styled in a premium glassmorphic dark theme.
 
 ---
 
