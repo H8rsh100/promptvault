@@ -91,3 +91,9 @@ To optimize your repository index card on GitHub, update the following fields in
   > A full-stack AI prompt management vault. Features a FastAPI REST backend gated by JWT access/refresh token pairs, SQLAlchemy SQLite storage, and a responsive glassmorphic React dashboard with tag search filters.
 * **Topics/Keywords**:
   `fastapi`, `reactjs`, `jwt-authentication`, `sqlite`, `sqlalchemy`, `prompt-engineering`, `full-stack`, `developer-tools`
+
+---
+
+## License
+
+MIT - see LICENSE.
